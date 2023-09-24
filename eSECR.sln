@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33919.361
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "eSECR", "eSECR\", "{1967A5D4-CA1F-4FD0-99EE-DB60B885A3B9}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_49280"
+		Debug.AspNetCompiler.PhysicalPath = "eSECR\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49280\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_49280"
+		Release.AspNetCompiler.PhysicalPath = "eSECR\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_49280\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "49280"
+		SlnRelativePath = "eSECR\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1967A5D4-CA1F-4FD0-99EE-DB60B885A3B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1967A5D4-CA1F-4FD0-99EE-DB60B885A3B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6349207C-107E-4430-9D78-005283EEE08B}
+	EndGlobalSection
+EndGlobal
